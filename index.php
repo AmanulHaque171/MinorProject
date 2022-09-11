@@ -104,6 +104,7 @@
         .myLeftCtn .butt {
             background: linear-gradient(45deg, #fd9636, #e87c00);
             color: #fff;
+            margin-left: 16px;
             width: 230px;
             border: none;
             border-radius: 25px;
